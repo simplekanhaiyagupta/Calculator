@@ -1,0 +1,10 @@
+.calculator{
+ 
+    text-align: center;
+    /* margin: 10 20px; */
+    border:  1px solid rgb(140, 136, 136);
+    height: 370px;
+    width: 310px;
+    margin: 20px;
+    padding: 10px;
+}
